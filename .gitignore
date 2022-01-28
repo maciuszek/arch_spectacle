@@ -1,0 +1,4 @@
+spectacle
+src
+pkg
+*.pkg.tar.zst
